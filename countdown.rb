@@ -8,4 +8,4 @@ def countdown(number)
     #binding.pry
   end
   return "HAPPY NEW YEAR!"
-end       
+end
